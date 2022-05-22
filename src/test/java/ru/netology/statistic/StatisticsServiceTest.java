@@ -1,6 +1,5 @@
 package ru.netology.statistic;
 
-import jdk.jfr.StackTrace;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
